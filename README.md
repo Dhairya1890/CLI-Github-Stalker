@@ -76,4 +76,4 @@ Then enter any GitHub username when prompted:
 📜 License
 This project is open-source and available under the MIT License.
 <hr>
-**Created as a project from [Roadmap.sh](https://roadmap.sh/projects/github-user-activity)
+**Created as a project from [Roadmap.sh](https://roadmap.sh/projects/github-user-activity)**
